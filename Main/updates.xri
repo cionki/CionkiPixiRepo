@@ -7,7 +7,7 @@
   </description>
    <platform os="all" arch="noarch" version="1.8.9:1.9.0">
       <package fileName="RGB2SyntheticL_v1.0.zip"
-               sha1="fb434a5e01eb24068d2ad7193405489ca821c570"
+               sha1="cfd46899eadba6bb8227adf4783afc09a1a1de73"
                type="script"
                releaseDate="20241215">
          <title>
