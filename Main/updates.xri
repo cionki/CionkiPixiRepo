@@ -5,7 +5,7 @@
         Cionki Scripts PixInsight Updates — Andrea Conci.
      </p>
   </description>
-   <platform os="all" arch="noarch" version="1.8.9:1.9.0">
+   <platform os="all" arch="noarch" version="1.8.9:1.9.1">
       <package fileName="RGB2SyntheticL_v1.0.zip"
                sha1="f0d711c02cf38c62ec073971026b3dd7aa2e309a"
                type="script"
