@@ -6,12 +6,12 @@
      </p>
   </description>
    <platform os="all" arch="noarch" version="1.8.9:1.9.1">
-      <package fileName="RGB2SyntheticL_v1.0.zip"
-               sha1="f0d711c02cf38c62ec073971026b3dd7aa2e309a"
+      <package fileName="RGB2SyntheticL_v1.0.1.zip"
+               sha1="e77115107e1b5301227add91833860df1510cd80"
                type="script"
-               releaseDate="20241215">
+               releaseDate="20241227">
          <title>
-            RGB to Synthetic Luminance Generator v1.0
+            RGB to Synthetic Luminance Generator v1.0.1
          </title>
          <description>
             <p>
